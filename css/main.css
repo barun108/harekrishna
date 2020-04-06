@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Work+Sans:wght@300&display=swap');
+
+
+/*
+ *    font-family: 'Work Sans', sans-serif;
+ *
+ *    font-family: 'Open Sans', sans-serif;
+ */
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+h3, p {
+ font-family: 'Open Sans', sans-serif;   
+}
+
+.container {
+    background-color: #f7f7f7;
+    max-width: 80%;
+    margin: 30px auto 0 auto;
+    padding: 2rem;
+    border-radius: 8px;
+}
+
